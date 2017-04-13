@@ -18,5 +18,4 @@ yarn-error.log*
 firebase.json
 .firebaserc
 /.vscode
-/public/assets
 /public/gallery
