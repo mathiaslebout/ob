@@ -15,4 +15,8 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
-
+firebase.json
+.firebaserc
+/.vscode
+/public/assets
+/public/gallery
