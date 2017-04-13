@@ -1,0 +1,23 @@
+{
+    "gallery" : { 
+        "home": [{
+                "original": "gallery/home/5.jpg"
+            }, {
+                "original": "gallery/home/4.jpg"
+            }, {
+                "original": "gallery/home/3.jpg"
+            }, {
+                "original": "gallery/home/2.jpg"
+            }, {
+                "original": "gallery/home/1.jpg"
+            }
+        ]
+    },
+    "page": {
+        "artist": [ "<p>ARTis… And the ARTisT to be is a choice as pretty any other way of existence… Olga Blacker was born in the last century and will for sure die in this one.   Her art is dedicated to Humans… or humans…the way they live, the way they are… are happy to live and happy to leave… something or nothing…</p>" ],
+        "underway": [ "<p><strong>Sleeping Beauty.</strong> This non-profit project is dedicated to the social study of selfidentification, representation and self-belief. The project is shooted in pseudo fashion style to emphasize the contradiction. All persons are asked to choose the cloths, make up as they would like to appear to the world. After the participants are invited to sleep. Obviously nobody sleeps in such a manner what represents the contradiction in itself. This social study invites to get a deep look inside of truth personality and human appearance in the society. Materials: natural light, colored digital camera. If you want to participate in the project, please contact me.</p>" ],
+        "antiselfie": [ "<p><strong>Selfie(s) without protagonist.</strong>&nbsp;", 
+            "While the artist is present in every #antiselfie shot she is hidden, reflected or appears to be somewhere in background. Antiselfie being an evident contradiction attracts anyway the intention to the artist, while putting her face in the shadow and forcing observer to discover the world around the artist and her relation to it. Traditional concept of selfie is turned over intentionally in provocative way to bring the public to question our daily life pace, priorities, shared moments and capacity to observe.</p>",
+            "<p>All pictures are taken with a smartphone with no post-production.</p>" ]
+    }
+}

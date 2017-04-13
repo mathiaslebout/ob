@@ -1,0 +1,60 @@
+body {
+  font-family: 'arconregular';
+  text-align: center;
+}
+
+.obPageText {
+  text-align: justify;
+  line-height: 1.7;
+}
+
+.obHome, .obAntiselfie, .obArtist, .obUnderway {
+  margin-top: 25px;
+  margin-bottom: 10px;
+}
+
+.obMenuCol {
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+.obMenuItem {
+  color: black;
+}
+.obMenuItem:focus {
+  color: black;
+  text-decoration: none;
+}
+.obMenuItem:hover {
+  text-decoration: none;
+}
+.obMenuItemPage:hover {
+  border-style: solid;
+  border-width: 1px;
+  padding: 2px;
+}
+
+.obSocialLink {
+  margin: 10px;
+  color: black;
+}
+
+.image-gallery {
+  max-width: 500px;
+  margin: auto;
+}
+.image-gallery-image img {
+  max-width: 500px !important;
+}
+
+.obFooter {
+  margin-top: 30px;
+}
+
+@font-face {
+  font-family: 'arconregular';
+  src: url('../public/assets/fonts/arcon-regular-webfont.woff2') format('woff2'),
+        url('../public/assets/fonts/arcon-regular-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
